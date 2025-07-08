@@ -5,7 +5,7 @@ When coding, we often use AI to help write or debug code. But as projects grow, 
 
 Copying files manually is tedious. This tool gathers all project files into one text file, letting AI analyze the whole project at once for better assistance.
 
-![AppSS](\img\AppSS.png)
+![AppSS](/img/AppSS.png)
 
 ### **Benefits**
 - **Save time by merging code files automatically**
