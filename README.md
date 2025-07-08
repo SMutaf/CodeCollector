@@ -12,7 +12,3 @@ Copying files manually is tedious. This tool gathers all project files into one 
 - **Increase AI efficiency with full project context**
 - **Manage your project files easily and conveniently**
 
-### **Setup**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/login-page.git
